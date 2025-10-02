@@ -53,7 +53,7 @@ export default function TodoApp() {
           onClick={addTask}
           className="ml-2 px-5 py-3 bg-white text-black font-semibold rounded-lg hover:bg-gray-200 transition"
         >
-          + Add
+           Add
         </button>
       </div>
 
