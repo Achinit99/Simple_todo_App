@@ -37,7 +37,7 @@ export default function TodoApp() {
         Focus on what matters
       </h1>
       <p className="text-gray-400 mb-6 text-center">
-        A simple, elegant way to organize your tasks and boost productivity.
+        A simple, elegant way to organize your tasks and boost productivity. Joine with me .. 
       </p>
 
       {/* Input */}
